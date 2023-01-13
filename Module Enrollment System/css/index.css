@@ -1,0 +1,95 @@
+body{
+    background-image: url(pexels-lukas-1420709_1773x997.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 200%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+.full-height {
+    background: rgba(26, 26, 26, 0.548);
+    background-attachment: fixed;
+    max-height: 100vh;
+    height: 100vh;
+
+
+}
+table{
+    width: 100%;
+    padding-top: 5px;
+    
+}
+.heading-text{
+    color:#163da0;
+    background-color: whitesmoke;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 63px;
+    margin-top: 15%;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.sub-text2{
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    line-height: 27px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0;
+}
+
+
+.register-btn{
+    color:#163da0;
+    background-color: whitesmoke;
+}
+
+
+/* .edoc-logo{
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-left: 20px;
+    animation: transitionIn-Y-over 0.5s;
+}
+
+.edoc-logo-sub{
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 12px;
+
+} */
+
+
+.nav-item{
+    color:#163da0;
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 25px;
+    /* padding-left: 20px; */
+    font-weight: 500;
+    /* word-wrap: break-word; */
+    margin-right: 50px;
+    padding: 5px;
+    animation: transitionIn-Y-over 1s;
+}
+
+.nav-item:hover{
+    color: #2571ff;
+    
+
+}
+
+.footer-hashen{
+    position: absolute;
+    bottom: 0;
+    margin-left: 39%;
+    
+    font-size: 15px;
+    animation: transitionIn-Y-over 0.5s;
+}
